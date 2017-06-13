@@ -9,7 +9,8 @@ do local _ = {
     "tools",
     "me",
     "addreplay",
-    "deleall"
+    "deleall",
+    "replay"
   },
   info_text = "📌¦ اهلا بك عزيزي في سورس جنرال\n\nGENERAL V14 \nللمزيد من المعلومات تابع قناه السورس @NENO_CH \n https://github.com/NAHAR99/GENERAL\n\n📌¦ Dev @KNSLTHM\n\n📌¦ بوت التواصل @NAHAR2_BOT\n\n📌¦ Channel @NENO_CH ",
   moderation = {
