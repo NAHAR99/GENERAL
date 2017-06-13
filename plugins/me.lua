@@ -1,5 +1,5 @@
 -- Begin myinfo.lua
-local function th3boss(msg, matches)
+local function GENERAL(msg, matches)
 	if matches[1]:lower() == 'معلوماتي' then
 		function get_id(arg, data)
 			local username
