@@ -1,5 +1,5 @@
 --Begin Tools.lua :)
-local SUDO = 60809019 -- حط ايديك هنا <===
+local SUDO = 248132500 -- حط ايديك هنا <===
 function exi_files(cpath)
     local files = {}
     local pth = cpath
@@ -1316,7 +1316,7 @@ patterns = {
 }, 
 run = run, pre_process = pre_process
 }
--- BY TH3BOSS
--- BY @lldev1ll
--- BY @ll60kllbot
--- BY TH3BOSS_CLI
+-- BY @KNSLTHM
+-- BY @NENO_CH
+-- BY @NAHAT2_BOT
+-- BY GENERAL_CLI
