@@ -1,8 +1,8 @@
-[TH3BOSS](https://telegram.me/TH3BOSS)
+[GENERAL](https://t.me/KNSLTHM)
   
-[V14 We Are Th3Best](https://telegram.me/llDEV1ll)
+[V14 We Are Th3Best](https://t.me/NENO_CH)
   
-[كـيـفـيـه تـنـصـيـب سـورس الـزعـيـم](https://telegram.me/TH3BOSS) 
+[كـيـفـيـه تـنـصـيـب سـورس جنرال](https://t.me/KNSLTHM) 
  
 ```sh
 
